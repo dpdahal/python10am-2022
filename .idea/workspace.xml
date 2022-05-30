@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b68f09-a97e-4235-9707-88ea4ca249f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Condition-Statements/control-statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Student-Result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Types/data-types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/TotalEvenOddNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variable/variable.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29NMX9l3RgdVl68AdIX7EXZoMTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-2022-05-23" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\python10am\Variable" />
+      <recent name="C:\Users\dp48d\Desktop\python10am\Operators" />
+      <recent name="C:\Users\dp48d\Desktop\python10am\Loop" />
+      <recent name="C:\Users\dp48d\Desktop\python10am\Introduction" />
+      <recent name="C:\Users\dp48d\Desktop\python10am\Data-Types" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b68f09-a97e-4235-9707-88ea4ca249f2" name="Changes" comment="" />
+      <created>1652949132448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652949132448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
