@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3b68f09-a97e-4235-9707-88ea4ca249f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Condition-Statements/control-statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loop/loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Student-Result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Types/data-types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/TotalEvenOddNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variable/variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +34,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-2022-05-23" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="shared-indexes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
